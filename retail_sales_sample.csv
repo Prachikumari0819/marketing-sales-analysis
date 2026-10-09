@@ -1,0 +1,31 @@
+Order_Date,Region,Sales_Channel,Product_ID,Product_Name,Category,Customer_ID,Quantity,Unit_Price_INR,Discount_Rate,Revenue_INR
+2026-01-03,North,Online,A101,Wireless Mouse,Electronics,C001,2,799,0.05,1518.1
+2026-01-04,South,Store,A102,Notebook Pack,Stationery,C002,5,120,0.0,600.0
+2026-01-05,West,Online,A103,Water Bottle,Home & Living,C003,3,399,0.1,1077.3
+2026-01-06,East,Store,A104,Desk Lamp,Home & Living,C004,1,1299,0.05,1234.05
+2026-01-08,North,Online,A105,USB-C Hub,Electronics,C005,2,1499,0.1,2698.2
+2026-01-10,South,Online,A102,Notebook Pack,Stationery,C006,4,120,0.0,480.0
+2026-01-12,West,Store,A101,Wireless Mouse,Electronics,C007,1,799,0.0,799.0
+2026-01-14,East,Online,A106,Storage Organizer,Home & Living,C008,2,599,0.05,1138.1
+2026-01-17,North,Store,A103,Water Bottle,Home & Living,C009,4,399,0.0,1596.0
+2026-01-19,South,Online,A105,USB-C Hub,Electronics,C010,1,1499,0.05,1424.05
+2026-01-21,West,Online,A104,Desk Lamp,Home & Living,C001,2,1299,0.1,2338.2
+2026-01-23,East,Store,A102,Notebook Pack,Stationery,C011,6,120,0.05,684.0
+2026-01-25,North,Online,A106,Storage Organizer,Home & Living,C012,3,599,0.0,1797.0
+2026-01-27,South,Store,A101,Wireless Mouse,Electronics,C013,2,799,0.1,1438.2
+2026-01-29,West,Online,A105,USB-C Hub,Electronics,C014,2,1499,0.0,2998.0
+2026-02-02,East,Online,A103,Water Bottle,Home & Living,C003,2,399,0.05,758.1
+2026-02-04,North,Store,A104,Desk Lamp,Home & Living,C015,1,1299,0.0,1299.0
+2026-02-06,South,Online,A106,Storage Organizer,Home & Living,C006,2,599,0.1,1078.2
+2026-02-08,West,Store,A102,Notebook Pack,Stationery,C016,8,120,0.0,960.0
+2026-02-10,East,Online,A105,USB-C Hub,Electronics,C010,1,1499,0.1,1349.1
+2026-02-12,North,Online,A101,Wireless Mouse,Electronics,C001,3,799,0.05,2277.15
+2026-02-14,South,Store,A103,Water Bottle,Home & Living,C017,5,399,0.0,1995.0
+2026-02-16,West,Online,A104,Desk Lamp,Home & Living,C018,1,1299,0.05,1234.05
+2026-02-18,East,Store,A106,Storage Organizer,Home & Living,C019,4,599,0.0,2396.0
+2026-02-20,North,Online,A105,USB-C Hub,Electronics,C020,2,1499,0.05,2848.1
+2026-02-22,South,Online,A102,Notebook Pack,Stationery,C002,7,120,0.1,756.0
+2026-02-24,West,Store,A101,Wireless Mouse,Electronics,C007,2,799,0.0,1598.0
+2026-02-26,East,Online,A104,Desk Lamp,Home & Living,C004,2,1299,0.1,2338.2
+2026-02-28,North,Store,A103,Water Bottle,Home & Living,C009,3,399,0.05,1137.15
+2026-03-02,South,Online,A105,USB-C Hub,Electronics,C010,3,1499,0.0,4497.0
